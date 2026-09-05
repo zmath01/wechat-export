@@ -1,0 +1,41 @@
+# LICENSE — Proprietary (All Rights Reserved, Fee Required for Reuse)
+
+Copyright (c) 2026 zmath01 (WechatExport authors). All rights reserved.
+
+## 1. Scope
+This repository (the "Software") — source, scripts, docs, and accompanying
+material — is provided for one narrow, non-commercial purpose only: helping the
+original owner recover / export **their OWN** WeChat 朋友圈 (Moments) data from a
+device they own and an account they control.
+
+## 2. Granted free of charge
+You may use the Software at no cost solely to:
+  (a) extract, back up, or render to readable format the WeChat Moments of
+      **yourself** (the account owner), from **your own** device; and
+  (b) keep private local copies of the output for personal records.
+
+This does NOT license redistribution, sublicensing, sale, or building a service.
+
+## 3. Requires a paid license
+Any other use REQUIRES a separate, written, paid license from the copyright
+holder, including but not limited to:
+  - redistributing / publishing / mirroring the Software (source or binary) on
+    GitHub, GitLab, or any host;
+  - modifying, deriving, or incorporating it into another product;
+  - processing third-party accounts or providing a service to others;
+  - charging others for access to or output of the Software;
+  - any commercial, institutional, or research use beyond clause 2.
+
+Contact the copyright holder to negotiate terms/fees first.
+
+## 4. No warranty / liability
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND. IN NO EVENT
+SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES, OR LIABILITY
+ARISING FROM THE SOFTWARE OR ITS USE, INCLUDING DATA loss, account ban, or
+device damage. You are responsible for complying with WeChat's Terms of Service
+and applicable law.
+
+## 5. Termination
+This license terminates on breach; you must then delete all copies.
+
+By using the Software you agree to the above.

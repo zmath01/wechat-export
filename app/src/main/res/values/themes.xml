@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Compose sets its own MaterialTheme at runtime; the manifest theme only
+         needs a valid, NoActionBar window theme. Use the platform Material theme
+         (always present on API 21+) to avoid any dependency on prebuilt
+         Material3 style names. -->
+    <style name="Theme.WechatExport" parent="android:Theme.Material.NoActionBar">
+    </style>
+</resources>

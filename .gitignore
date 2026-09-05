@@ -1,0 +1,22 @@
+# build artifacts
+bin/
+app/build/
+build/
+.gradle/
+*.apk
+*.aar
+local.properties
+
+# local run output (may contain personal exports) — keep repo clean
+out/
+data/
+
+# misc
+.DS_Store
+*.swp
+*~
+
+# AI session notes / IDE configs (private)
+.workbuddy/
+.idea/
+.cxx/
