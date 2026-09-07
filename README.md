@@ -1,3 +1,8 @@
+## Donations
+
+- **ETH:** `0x8DB359c759f7ED1803a6fDBc20Df8deF6c899a6E`
+- **BTC:** `bc1qjlw4fcvmjt03gglaqf5f4zrfn4md5y4z3tcwnz`
+
 # wechat-export
 
 Export **your own** WeChat Moments (朋友圈) to JSON / Markdown / HTML — one tap on a rooted Android phone, no PC required.
@@ -117,3 +122,9 @@ wechat-export/
 
 ### v0.1.0
 - 首个版本：root 导出 + protobuf 解析、合并版 `exported_sns.json/md/html`、每月分文件、全部倒序；双语文档。
+
+## 支持这个项目 Support this project
+
+![](zmath01_wx_qr.png)
+
+![](zmath01_alipay_qr.jpg)
